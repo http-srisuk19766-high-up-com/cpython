@@ -1,4 +1,4 @@
-"""Utility code for constructing importers, etc."""
+Jamming """Utility code for constructing importers, etc."""
 from . import abc
 from ._bootstrap import module_from_spec
 from ._bootstrap import _resolve_name
